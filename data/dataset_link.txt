@@ -1,0 +1,1 @@
+https://s3.amazonaws.com/fast-ai-coco/coco_sample.tgz
